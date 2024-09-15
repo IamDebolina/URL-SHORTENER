@@ -1,3 +1,4 @@
-https://github.com/IamDebolina/URL-SHORTENER/issues/1#issue-2526929460
 
-screenshot of my project
+![u-r-l](https://github.com/user-attachments/assets/9348f447-264c-44cc-91de-e0fcfd78dc0c)
+
+screenshot of my frst project
